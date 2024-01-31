@@ -40,7 +40,7 @@ const HeroSection = () => {
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
             Software Engineer in Test @Oracle | UNC Charlotte Graduate Student |
             Former QA Analyst Intern @PlayStation | Former Software Engineer
-            @Wipro Limited
+            @Wipro Limited{" "}
           </p>
           <div>
             <Link
