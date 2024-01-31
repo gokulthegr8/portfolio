@@ -11,7 +11,7 @@ const projectsData = [
     image: "/images/projects/portfolio.png",
     tag: ["All", "Angular/React"],
     gitUrl: "https://github.com/gokulthegr8/portfolio",
-    previewUrl: "/",
+    previewUrl: "https://gokul-portfolio-tau.vercel.app/",
   },
   {
     id: 2,
