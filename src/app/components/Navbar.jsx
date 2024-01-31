@@ -28,8 +28,7 @@ const Navbar = () => {
           href={"/"}
           className="text-2xl md:text-5xl text-white font-semibold"
         >
-          {/* <Image src="/images/logo.jpg" width={200} height={200} /> */}
-          LOGO
+          <Image src="/images/logo.png" width={50} height={50} />
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
