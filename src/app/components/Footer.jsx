@@ -6,7 +6,7 @@ function Footer() {
       <div className="container p-12 flex justify-between">
         <span>
           {" "}
-          <Image src="/images/logo2.png" width={50} height={50} />
+          <Image src="/images/logo.png" width={50} height={50} />
         </span>
         <p className="text-slate-600 lg:mr-2">
           ©Gokul Mani. All rights reserved.
