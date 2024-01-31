@@ -38,7 +38,9 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg lg:text-xl mb-6">
-            Random text
+            Software Engineer in Test @Oracle | UNC Charlotte Graduate Student |
+            Former QA Analyst Intern @PlayStation | Former Software Engineer
+            @Wipro Limited
           </p>
           <div>
             <Link

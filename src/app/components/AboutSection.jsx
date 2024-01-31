@@ -195,7 +195,12 @@ const AboutSection = () => {
         <Image src="/images/about-me-image.jpg" width={500} height={500} />
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
-          <p className="text-base lg:text-lg">About me description</p>
+          <p className="text-base lg:text-lg">
+            I am a Software Engineer with 6+ years of experience in Software
+            Testing and Automation. I am very passionate about coding and would
+            like to bring my quality mindset into Software Development. I am
+            also a certified Scrum Master who is familiar with Agile workflows.{" "}
+          </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
               selectTab={() => handleTabChange("education")}
