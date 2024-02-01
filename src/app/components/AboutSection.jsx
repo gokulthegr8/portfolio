@@ -201,7 +201,7 @@ const AboutSection = () => {
             like to bring my quality mindset into Software Development. I am
             also a certified Scrum Master who is familiar with Agile workflows.{" "}
           </p>
-          <div className="flex flex-row justify-start mt-8">
+          <div className="flex flex-row flex-wrap justify-start mt-8">
             <TabButton
               selectTab={() => handleTabChange("education")}
               active={tab === "education"}
