@@ -53,7 +53,7 @@ const HeroSection = () => {
               </button>
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1XsIOakYtOoNdoh7oJAOFF36C0RuTDmId/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1mqxlzvObfWjPSlk_eJHDlzdfHJajBYRG/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
             >
