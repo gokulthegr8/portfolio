@@ -196,12 +196,12 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I am a Software Engineer with 6+ years of experience in Software
-            Testing and Automation. I am very passionate about coding and would
-            like to bring my quality mindset into Software Development. I am
-            also a certified Scrum Master who is familiar with Agile workflows.{" "}
+            Dedicated Software Engineer in Test with around 7 years of
+            experience in ensuring the quality and reliability of software
+            products. Proficient in automation, test strategy design, defect
+            identification, and driving quality improvements{" "}
           </p>
-          <div className="flex flex-row flex-wrap justify-start mt-8">
+          <div className="flex flex-row flex-wraps justify-start mt-8">
             <TabButton
               selectTab={() => handleTabChange("education")}
               active={tab === "education"}
